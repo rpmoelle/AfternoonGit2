@@ -11,6 +11,6 @@ public class cameraControl : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+        transform;
 	}
 }
